@@ -1,0 +1,198 @@
+{
+  "id": "4253435",
+  "name": "WS",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4766478",
+      "name": "file",
+      "font_class": "file",
+      "unicode": "e7bb",
+      "unicode_decimal": 59323
+    },
+    {
+      "icon_id": "10294700",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "18749982",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "5994069",
+      "name": "folder",
+      "font_class": "folder",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "39254634",
+      "name": "panda_high_contrast",
+      "font_class": "panda_high_contrast",
+      "unicode": "e8ea",
+      "unicode_decimal": 59626
+    },
+    {
+      "icon_id": "12865693",
+      "name": "setting",
+      "font_class": "setting",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "5698820",
+      "name": "删除",
+      "font_class": "delete",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "6808028",
+      "name": "Panda",
+      "font_class": "Panda",
+      "unicode": "ed19",
+      "unicode_decimal": 60697
+    },
+    {
+      "icon_id": "10943959",
+      "name": "debug",
+      "font_class": "debug",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "1111317",
+      "name": "QQ",
+      "font_class": "qq",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1111348",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "6807101",
+      "name": "Image-file",
+      "font_class": "Image-file",
+      "unicode": "ebbe",
+      "unicode_decimal": 60350
+    },
+    {
+      "icon_id": "6807111",
+      "name": "Remouve-File",
+      "font_class": "Remouve-File",
+      "unicode": "ebc3",
+      "unicode_decimal": 60355
+    },
+    {
+      "icon_id": "6807123",
+      "name": "Zip-File",
+      "font_class": "Zip-File",
+      "unicode": "ebc9",
+      "unicode_decimal": 60361
+    },
+    {
+      "icon_id": "6807134",
+      "name": "Document-File",
+      "font_class": "Document-File",
+      "unicode": "ebcf",
+      "unicode_decimal": 60367
+    },
+    {
+      "icon_id": "6808495",
+      "name": "Powerpoint",
+      "font_class": "Powerpoint",
+      "unicode": "edd0",
+      "unicode_decimal": 60880
+    },
+    {
+      "icon_id": "6808499",
+      "name": "Ubuntu",
+      "font_class": "Ubuntu",
+      "unicode": "edd3",
+      "unicode_decimal": 60883
+    },
+    {
+      "icon_id": "6808502",
+      "name": "Windows",
+      "font_class": "Windows",
+      "unicode": "edd4",
+      "unicode_decimal": 60884
+    },
+    {
+      "icon_id": "6808503",
+      "name": "Windows-Media Player",
+      "font_class": "Windows-MediaPlayer",
+      "unicode": "edd5",
+      "unicode_decimal": 60885
+    },
+    {
+      "icon_id": "6808504",
+      "name": "Word",
+      "font_class": "Word",
+      "unicode": "edd6",
+      "unicode_decimal": 60886
+    },
+    {
+      "icon_id": "6808508",
+      "name": "Android",
+      "font_class": "Android",
+      "unicode": "edd8",
+      "unicode_decimal": 60888
+    },
+    {
+      "icon_id": "6808509",
+      "name": "Apple",
+      "font_class": "Apple",
+      "unicode": "edd9",
+      "unicode_decimal": 60889
+    },
+    {
+      "icon_id": "6808518",
+      "name": "Excel",
+      "font_class": "Excel",
+      "unicode": "edde",
+      "unicode_decimal": 60894
+    },
+    {
+      "icon_id": "23973824",
+      "name": "猫",
+      "font_class": "yarn",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "14930232",
+      "name": "声音",
+      "font_class": "Soundshengyin4",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "4171381",
+      "name": "字体减小-黑",
+      "font_class": "yueduye_zitijianxiao",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "4171382",
+      "name": "字体增大",
+      "font_class": "yueduye_zitizengda",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
